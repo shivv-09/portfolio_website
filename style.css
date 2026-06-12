@@ -154,7 +154,7 @@ height:100px;
 resize:none;
 }
 
-button[type="submit"]{
+button{
 background:#7c3aed;
 color:white;
 border:none;
