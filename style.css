@@ -158,7 +158,8 @@ button{
 background:#7c3aed;
 color:white;
 border:none;
-margfin-left:4rem;
+display: flex;
+  justify-content: center;
 padding:12px 25px;
 border-radius:6px;
 cursor:pointer;
